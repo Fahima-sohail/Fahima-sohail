@@ -12,9 +12,9 @@
 
 ## ⟡ About Me
 
-I'm a 4th-semester Software Engineering student at **FAST-NUCES, Islamabad**, currently deep in coursework spanning Operating Systems, Databases, Computer Organization & Assembly, Software Design & Architecture, and Requirements Engineering.
+I'm a 4th-semester Software Engineering student at **FAST-NUCES, Islamabad**, with a strong interest in building intelligent software.
 
-Outside the classroom, I'm building toward a career in **AI development** — working through a structured LangGraph & RAG bootcamp, experimenting with agentic workflows, and exploring freelance opportunities in the AI space.
+Alongside my coursework, I'm focused on becoming an AI developer—building projects with **LangGraph, LangChain, RAG, and agentic AI workflows**, while exploring multi-agent systems, LLM applications, and machine learning to create practical, real-world AI solutions.
 
 <br>
 
@@ -44,8 +44,6 @@ Retrieval-augmented pipelines with LangChain and LlamaIndex, paired with vector 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-D8A7CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahima-s-b29436318/)
-
-<sub>Open to internships, freelance work, and collaborations in AI development.</sub>
 
 </div>
 
