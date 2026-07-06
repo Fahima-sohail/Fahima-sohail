@@ -4,7 +4,7 @@
 
 ### Software Engineering Student · Aspiring AI Developer
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+with+LangChain+%26+LangGraph;Exploring+Agentic+AI+%26+RAG+Systems;Software+Engineering+%40+FAST-NUCES;Always+Learning%2C+Always+Building&font=Fira+Code&center=true&width=500&height=45&color=A996FF&vCenter=true&size=20" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+%40+FAST-NUCES;Learning+LangGraph+%26+Agentic+AI;Exploring+RAG+Systems&font=Fira+Code&center=true&width=480&height=45&color=C9A0DC&vCenter=true&size=20" />
 
 </div>
 
@@ -16,6 +16,7 @@ I'm a 4th-semester Software Engineering student at **FAST-NUCES, Islamabad**, cu
 
 Outside the classroom, I'm building toward a career in **AI development** — working through a structured LangGraph & RAG bootcamp, experimenting with agentic workflows, and exploring freelance opportunities in the AI space.
 
+<br>
 
 ## ⟡ Currently Exploring
 
@@ -23,14 +24,14 @@ Outside the classroom, I'm building toward a career in **AI development** — wo
 <tr>
 <td width="50%" valign="top">
 
-**Agentic AI & RAG**
+**Agentic AI**
 Building memory-aware agents with LangGraph — thread isolation, persistence, and multi-agent orchestration.
 
 </td>
 <td width="50%" valign="top">
 
-**Systems Programming**
-POSIX systems programming in C, x86 MASM assembly, and low-level memory management.
+**RAG & LLM Orchestration**
+Retrieval-augmented pipelines with LangChain and LlamaIndex, paired with vector search.
 
 </td>
 </tr>
@@ -41,7 +42,11 @@ POSIX systems programming in C, x86 MASM assembly, and low-level memory manageme
 ## ⟡ Let's Connect
 
 <div align="center">
-<sub>https://www.linkedin.com/in/fahima-s-b29436318/</sub>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-D8A7CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahima-s-b29436318/)
+
+<sub>Open to internships, freelance work, and collaborations in AI development.</sub>
+
 </div>
 
 <br>
