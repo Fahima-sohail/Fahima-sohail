@@ -12,7 +12,7 @@
 
 ## ⟡ About Me
 
-I'm a <font color="#C9A0DC">**4th-semester Software Engineering student**</font> at **FAST-NUCES, Islamabad**, with a strong interest in building intelligent systems.
+I'm a <font color="#C9A0DC">**Software Engineering student**</font> at **FAST-NUCES, Islamabad**, with a strong interest in building intelligent systems.
 
 Alongside my coursework, I'm focused on becoming an AI developer, currently learning <font color="#D8A7CA">**ML fundamentals, Deep learning and agentic AI concepts like LangGraph, LangChain, RAG and workflows**</font> to create real world AI solutions.
 
